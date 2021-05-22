@@ -1,0 +1,5 @@
+---
+title: "Blog example"
+site: distill::distill_website
+listing: posts
+---
